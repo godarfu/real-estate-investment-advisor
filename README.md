@@ -81,4 +81,4 @@ This project simplifies decision-making by applying machine learning techniques 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/real-estate-investment-advisor.git
+git clone https://github.com/god_arfu/real-estate-investment-advisor.git
